@@ -14,10 +14,10 @@ import ssl
 import sys,argparse
 
 #Twitter API credentials
-consumer_key = "s8nrWEAvRzRBNmzTuVhpunFWd"
-consumer_secret = "wpdQXGtH23IHnwHOrRdbDeVZ49tEZvxNctioesCY5ySjzodCmR"
-access_key = "66192089-rFkUhd1Z2hG2iTv4Q3shg9LMG9lBZIBwvlZ30rAcj"
-access_secret = "DLeFUtSIQahmNLDr12JnxbD25i77c99hgPmjU9GjY4Me5"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
